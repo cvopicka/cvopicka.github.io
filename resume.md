@@ -10,7 +10,7 @@ Missoula, MT 59801
 
 ## Education:
 * Forestry M.S. Degree – The University of Montana, Missoula (2007)
-* Forestry B.S. Degree – The University of Montana,# Charles E Vopicka
+* Forestry B.S. Degree – The University of Montana, Missoula (2003)
 * Park Management A.A.S. Degree – Frederick Community College (1999)
 
 ## Training / Certification / Workshops:
