@@ -1,4 +1,5 @@
 # Charles Edward Vopicka
+
 Owner, Free State Drivers
 
 1620 South 8th Street West
@@ -6,15 +7,17 @@ Owner, Free State Drivers
 Missoula, MT 59801
 
 (406)549-1263
- 
 
-## Education:
+## Education
+
 - Forestry M.S. Degree – The University of Montana, Missoula (2007)
 - Forestry B.S. Degree – The University of Montana, Missoula (2003)
 - Park Management A.A.S. Degree – Frederick Community College (1999)
 
-## Training / Certification / Workshops:
-- [Google IT Automation with Python Professional Certificate]() (In Progress)
+## Training / Certification / Workshops
+
+- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/S759NB2TEURR) (3/2020)
+  - [Automating Real-World Tasks with Python](https://www.coursera.org/account/accomplishments/verify/Y4U7DQVLN87C) (3/2020)
   - [Configuration Management and the Cloud](https://www.coursera.org/account/accomplishments/verify/35KE42UJ6A3C) (2/2020)
   - [Crash Course on Python](https://www.coursera.org/account/accomplishments/verify/HNZT96TGTPMR) (2/2020)
   - [Using Python to Interact with the Operating System](https://www.coursera.org/account/accomplishments/verify/8DC2MPANYGA9) (2/2020)
@@ -26,16 +29,17 @@ Missoula, MT 59801
   - [The Bits and Bytes of Computer Networking](https://www.coursera.org/account/accomplishments/verify/2Q2NAHWEH6A3) (4/2018)
   - [Operating Systems and You: Becoming a Power User](https://www.coursera.org/account/accomplishments/verify/4LVY2NKB4FAA) (4/2018)
   - [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/verify/938C99Z8H94C) (3/2018)
-- Independent Contractor Exemption Certificate – MT Dept. of Labor and Industry (3/2015 – 3/2019)
+- Independent Contractor Exemption Certificate – MT Dept. of Labor and Industry (3/2015 – 3/2021)
 - Maryland EMT – Basic (12/15/99 – 12/31/02)
 - National Ski Patrol Outdoor Emergency Care Technician (12/98 – 12/01)
 - High Angle Rescue Level II training at SOLO (10/04/98)
 - Wilderness EMT at SOLO (09/98 – 09/00)
-- EMT – Basic training and National Registry of EMT’s certified (trained at SOLO) (10/02/98 – 03/31/01)
+- EMT – Basic training and National Registry of EMT's certified (trained at SOLO) (10/02/98 – 03/31/01)
 - Wilderness First Responder at SOLO (09/98 – 09/00)
 - High Angle Rescue Level I training at Stonehearth Open Learning Opportunities (SOLO) (1998)
 
-## Work Experience:
+## Work Experience
+
 - Owner – Free State Drivers – Missoula, MT (2006 – present)
   - Sustained yield analysis
   - Inventory design auditing
