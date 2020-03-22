@@ -1,1 +1,3 @@
-# Listing of projects
+# /bin Listing of projects
+
+- [..](/)
