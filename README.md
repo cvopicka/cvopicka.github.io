@@ -6,3 +6,4 @@ Come back often to see what I am up to and what projects I am dumping here for t
 - var
   - log
     - [resume](/var/log/resume)
+    - [syslog_2020](/var/log/syslog_2020)
