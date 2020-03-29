@@ -1,5 +1,9 @@
 # System messages from the Vopicka.dev Wetware
 
+## 2020.03.28
+
+Corrected commits to wrong repo.  Added remaining content to teh document I had been working on.  Considering moving on to uploading code now.  Although also looking to convert it from PHP to Python.  Day one of total lockdown from Covid-19 by order of the government.
+
 ## 2020.03.22
 
 Added a bunch of content that had been floating around my servers to repos (see [documents](/home/vopicka/documents)).  Did some gaming.  Tried to build several emergency computers from spare parts.  Two of them had to be retired.  32-bit and the display adapter had no drivers available.  I hate to get rid of them but the hightest resolution for them was 640x480 @ 16bit.  Next recycling day they will be properly disposed of.  Luckily going through some boxed i was recently given from growing up were my original MFM hard drives.  I am sure they will prove to be very useful...
