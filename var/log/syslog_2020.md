@@ -1,5 +1,44 @@
 # System messages from the Vopicka.dev Wetware
 
+## 2020.04.19
+
+* :coffee: x 2
+* Continue rack configuration tweaks
+* Day Star - hsssss
+
+## 2020.04.18
+
+* :coffee: x 3
+* Power on rack for first time
+* Install Ubuntu Server 2020.04 Beta
+  * Spent better part of a day on why no boot device installed
+    * yes looked at "that" forum post.  Pick one
+* Install Linux Mint 19.3
+  * Instantly working
+  * Process
+    * Update all packages
+    * Install
+      * OpenSSH
+        * generate and install keys
+      * cockpit
+      * prometheus
+      * mariadb-server
+      * apache2
+      * pypmyadmin
+
+## 2020.04.17
+
+Rack parts arrive.
+
+* Switch - TP-Link 24 Port Gigabit Unmanaged Ethernet Switch (TL-SG1024S)
+* Surge suppressor - StarTech.com 16 Outlet Horizontal 1U Rack Mount PDU Power Strip for Network Server Racks - Surge Protection - 120V/15A - 6ft Power Cord (RKPW161915)
+* Mini-ITX computer case - PLINKUSA RACKBUY 1U Riser (3.5" Open / 2 x 2.5 HDD Bay)(9.84" Deep)(Mini ITX) Rackmount Chassis ITX-123
+* power supply - Apevia ITX-AP300W Mini-ITX / Flex ATX 300W Solid Power Supply - Black
+
+Assembled system added to rack.
+
+Extract the Intel D94GCLF2 motherboard from its original case.  Install it in the recently acquired 1U case.
+
 ## 2020.03.28
 
 Corrected commits to wrong repo.  Added remaining content to teh document I had been working on.  Considering moving on to uploading code now.  Although also looking to convert it from PHP to Python.  Day one of total lockdown from Covid-19 by order of the government.
