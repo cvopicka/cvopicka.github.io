@@ -1,5 +1,24 @@
 # System messages from the Vopicka.dev Wetware
 
+## 2020.07.12
+
+* Finishing new workstation desktop
+* LTI Laser library building
+
+## 2020.07.10
+
+* Installing Ubuntu Server 20.04 to water cooled Core2 server
+
+## ~2020.07.05
+
+* Finishing workstation top and installing side
+* Assembling Core2 Mini-ITX Server
+
+## ~2020.06.26
+
+* Assemble motorized base for workstation
+* Move server rack to office
+
 ## 2020.04.19
 
 * :coffee: x 2
