@@ -1,5 +1,8 @@
 # Rack Build log
 
+* **2020.06.26**
+  * Additional server added
+  * Rack moved
 * **2020.04.18** - First boot
 * **2020.04.17**
   * *Switch* - TP-Link 24 Port Gigabit Unmanaged Ethernet Switch (TL-SG1024S)

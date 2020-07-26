@@ -1,5 +1,15 @@
 # System messages from the Vopicka.dev Wetware
 
+## 2020.07.26
+
+* Finished migrating initial old PHP DB utility to Python (Merge flat files to single table)
+
+## 2020.07.25
+
+* Migrated a system disk to SSD
+* Adjusted rack
+* Brought old system back online as backup workstation and updated
+
 ## 2020.07.12
 
 * Finishing new workstation desktop
