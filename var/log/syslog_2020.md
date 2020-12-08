@@ -2,7 +2,7 @@
 
 ## 2020.12.05
 
-* Begin trying to convert arduino code to micropython
+* Begin trying to convert Arduino Nano code to MicroPython (ESP8266)
 
 ## ~2020.11.22
 
@@ -14,13 +14,17 @@
   * Processor missing...
 
 .
+
 .
+
 .
 
 * RECOVERY IN PROGRESS
 
 .
+
 .
+
 .
 
 * SYSTEM FAILURE
