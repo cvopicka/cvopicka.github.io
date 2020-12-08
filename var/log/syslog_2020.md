@@ -1,5 +1,30 @@
 # System messages from the Vopicka.dev Wetware
 
+## 2020.12.05
+
+* Begin trying to convert arduino code to micropython
+
+## ~2020.11.22
+
+* Print redesigned rover bottom
+
+## ~2020.11.04
+
+* Assemble new system.
+  * Processor missing...
+
+.
+.
+.
+
+* RECOVERY IN PROGRESS
+
+.
+.
+.
+
+* SYSTEM FAILURE
+
 ## 2020.07.26
 
 * Finished migrating initial old PHP DB utility to Python (Merge flat files to single table)
