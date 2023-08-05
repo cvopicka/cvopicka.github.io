@@ -213,7 +213,7 @@ Advantages:
         ```
 
 9. Create your 'YIELD' stands.
-   1. The numbering is not significant however for the sake of simplicity I would suggest using the FPS numbering especially since it will create stant id's outside of most peoples range of numbering.  That system is Region, HabGrp, Site Index.  So 10001090 is (Note the zero padding.)
+   1. The numbering is not significant however for the sake of simplicity I would suggest using the FPS numbering especially since it will create stand id's outside of most peoples range of numbering.  That system is Region, HabGrp, Site Index.  So 10001090 is (Note the zero padding.)
       - region 10
       - habgrp 1
       - BH site 90.
