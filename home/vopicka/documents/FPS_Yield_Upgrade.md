@@ -61,10 +61,21 @@ Advantages:
    1. Admin_Meta
       - This table needs to be created because FPS cannot have custom fields added to the base tables. This is another attention to detail issue as FPS tends to query * instead of only the fields it needs. This results in the need for FPS to manage fields it has no need to access. This table can be used to add any additional metadata that you may wish to track in the FPS Admin table. You will have to modify custom queries to take full advantage of this.
       - Fields:
-        - Std_ID - Long Integer
-        - Is_Yield - Yes/No
-        - HarvestYr - Integer
-        - HarvestRegime - Short Text (255)
+        - Std_ID - Long Integer (LONG)
+        - Is_Yield - Yes/No (BIT)
+        - HarvestYr - Integer (SHORT)
+        - HarvestRegime - Short Text (255) (VARCHAR(255))
+      - SQL:
+
+        ``` sql
+        CREATE TABLE Admin_Meta (
+            Std_ID LONG NOT NULL PRIMARY KEY,
+            Is_Yield BIT,
+            HarvestYr SHORT,
+            HarvestRegime VARCHAR(255)
+        );
+        ```
+
 8. Create QUERIES:
    - YIELD
 
