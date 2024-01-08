@@ -26,7 +26,7 @@
   - [The Bits and Bytes of Computer Networking](https://www.coursera.org/account/accomplishments/verify/2Q2NAHWEH6A3) (4/2018)
   - [Operating Systems and You: Becoming a Power User](https://www.coursera.org/account/accomplishments/verify/4LVY2NKB4FAA) (4/2018)
   - [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/verify/938C99Z8H94C) (3/2018)
-- Independent Contractor Exemption Certificate - MT Dept. of Labor and Industry (3/2015 - 3/2023)
+- Independent Contractor Exemption Certificate - MT Dept. of Labor and Industry (3/2015 - 3/2025)
 - Maryland EMT - Basic (12/15/99 - 12/31/02)
 - National Ski Patrol Outdoor Emergency Care Technician (12/98 - 12/01)
 - High Angle Rescue Level II training at SOLO (10/04/98)
@@ -38,7 +38,7 @@
 ## Work Experience
 
 - Database Administrator - MT Department of Agriculture - Helena, MT (2021/05 - Present)
-  - Database Development and Management (MS SQL Server / Oracle)
+  - Database Development and Management (MS SQL Server / Oracle / MySQL / SQLite / MS Access)
   - Systems Integration and Migration
   - Desktop and Systems Support
   - Project Development and Management
@@ -47,6 +47,7 @@
   - Address security matters
   - Lead Dept IT Staff with assignments and approvals
   - Act as liason between State IT, Dept IT, and Agency Leadership
+  - Take on many of the responsibilities of CIO and Network Administrator in their absence
 - Statewide Projects Technical Support - Montana State Library - Helena, MT (2018/11 - 2021/05)
   - Customer Support
   - Software development and management
