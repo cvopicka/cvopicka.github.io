@@ -37,7 +37,17 @@
 
 ## Work Experience
 
-- Database Administrator - MT Department of Agriculture - Helena, MT (2021/05 - Present)
+- IT Department Team Lead and Database Administrator - MT Department of Agriculture - Helena, MT (2024/05 - Present)
+  - Manage IT team priorities in accordance with CIO and Agency requirements
+  - Address security matters
+  - Lead Dept IT Staff with assignments and seeking approvals
+  - Act as liason between State IT, Dept IT, and Agency Leadership
+  - Database Development and Management (MS SQL Server / Oracle / MySQL / SQLite / MS Access)
+  - Systems Automation, Integration and Migration
+  - Desktop and Systems Support
+  - Project Development and Management
+  - Network administration
+- Database Administrator - MT Department of Agriculture - Helena, MT (2021/05 - 2024/05)
   - Database Development and Management (MS SQL Server / Oracle / MySQL / SQLite / MS Access)
   - Systems Integration and Migration
   - Desktop and Systems Support
