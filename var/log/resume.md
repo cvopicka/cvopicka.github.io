@@ -26,7 +26,7 @@
   - [The Bits and Bytes of Computer Networking](https://www.coursera.org/account/accomplishments/verify/2Q2NAHWEH6A3) (4/2018)
   - [Operating Systems and You: Becoming a Power User](https://www.coursera.org/account/accomplishments/verify/4LVY2NKB4FAA) (4/2018)
   - [Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/verify/938C99Z8H94C) (3/2018)
-- Independent Contractor Exemption Certificate - MT Dept. of Labor and Industry (3/2015 - 3/2025)
+- Independent Contractor Exemption Certificate - MT Dept. of Labor and Industry (3/2015 - 3/2027)
 - Maryland EMT - Basic (12/15/99 - 12/31/02)
 - National Ski Patrol Outdoor Emergency Care Technician (12/98 - 12/01)
 - High Angle Rescue Level II training at SOLO (10/04/98)
