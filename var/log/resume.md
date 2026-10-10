@@ -4,7 +4,7 @@ Missoula, MT and Helena, MT - (406) 549-1263
 
 ## PROFESSIONAL SUMMARY
 
-Montana state IT team lead and database administrator with more than a decade of public-sector and small-business technical service experience. Works at the intersection of agency priorities and technical operations: leads department IT staff, serves as liaison among State IT, department IT, and agency leadership, and has rebuilt working relationships with agency programs through plain-language communication and practical solutions. Background in service management, systems adoption, database administration, and software development.
+Montana Department of Agriculture IT team lead and database administrator with more than a decade of public-sector and small-business technical service experience. Works at the intersection of agency priorities and technical operations: leads department IT staff, serves as liaison among State IT, department IT, and agency leadership, and has rebuilt working relationships with agency programs through plain-language communication and practical solutions. Background in service management, systems adoption, database administration, and software development.
 
 ## PROFESSIONAL EXPERIENCE
 
