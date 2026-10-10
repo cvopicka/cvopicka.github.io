@@ -49,3 +49,4 @@ Montana Department of Agriculture IT team lead and database administrator with m
 
 - Google IT Automation with Python Professional Certificate (2020)
 - Google IT Support Professional Certificate (2018)
+- Montana Department of Administration SITSD 2025 Emerging Leaders Program
